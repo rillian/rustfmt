@@ -2,6 +2,7 @@
 
 A tool for formatting Rust code according to style guidelines.
 
+[Travis build status](https://travis-ci.org/nrc/rustfmt.svg?branch=master)
 
 ## How to use
 
